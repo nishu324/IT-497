@@ -1,0 +1,13 @@
+---
+title: "test"
+author: "nishant"
+date: "10/19/2016"
+output: html_document
+---
+
+This is a test rstudio github program
+
+```{r}
+2+2
+```
+
